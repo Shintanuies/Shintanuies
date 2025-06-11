@@ -45,7 +45,7 @@
 
 ##
 
-<div style="display: flex">
+<div width="100%" style="display: inline-block">
 <br>
  <div>
   <img width="35" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
