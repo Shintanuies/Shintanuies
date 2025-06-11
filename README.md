@@ -47,24 +47,23 @@
 
 <div width="100%" style="display: inline-block">
 <br>
- <div>
+
   <img width="35" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
- </div>
- <div>
+
+
   <img width="35" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
- </div>
-<div>
+
+
   <img width="35" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
-</div>
-<div>
+
+
   <img width="35" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
-</div>
-<div>
+
   <img width="35" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/>
-</div>    
-<div>
+   
+
   <img width="35" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000"/>
-</div>    
+   
 </div>
 
 ##
