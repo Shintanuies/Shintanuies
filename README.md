@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=77080E&text=ようこそ&fontSize=18&fontAlign=83&fontColor=E1FDFE&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&color=77080E&text=ようこそ&fontSize=18&fontAlign=83&fontColor=E1FDFE&animation=scaleIn"/>
 <hr>
 <div align="center">
     <img width="250" src="a-logo-design-in-an-oriental-style-featu_i-4pO2wTT92w3TENQ8Gg6A_naugfvo1SRq3Q7v-Y8cNlA.png"/>
